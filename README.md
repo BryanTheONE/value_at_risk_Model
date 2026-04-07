@@ -67,14 +67,14 @@ Il grafico evidenzia un shift strutturale del rischio. L'incremento del VaR al 9
 &nbsp; 
 
 ### Distribuzione Rendimenti Logaritmici
-![Distribuzione rendimenti logaritmici](immagini\log_returns.png)
+![Distribuzione rendimenti logaritmici](immagini/log_returns.png)
 &nbsp; 
 
 ### Distribuzione Estimation window & Distribuzione event window
-![Distribuzione rendimenti logaritmici](immagini\log_returns_normality.png)
+![Distribuzione rendimenti logaritmici](immagini/log_returns_normality.png)
 &nbsp; 
 
-![Distribuzione rendimenti logaritmici](immagini\log_returns_normality.png)
+![Distribuzione rendimenti logaritmici](immagini/log_returns_normality.png)
 
 **Analisi della Distribuzione**: Il passaggio dalla finestra di normality a quella di distress mostra chiaramente l'insorgere di fat tails. Mentre la distribuzione pre-evento è approssimabile a una normale, il periodo post-evento presenta **outliers estremi** (fino a -6% giornaliero) che il modello storico, basato su un lookback di serie storiche, è meno reattivo e rimane più esposto a cambiamenti di mercato.
 
