@@ -61,7 +61,7 @@ La divergenza tra gli indici è critica. Il p-value dello 0.001 sul Dow Jones (^
 
 
 ### Change VaR comparison
-![Distribuzione rendimenti logaritmici](immagini\change_comparison_VaR.png)
+![Distribuzione rendimenti logaritmici](immagini/change_comparison_VaR.png)
 
 Il grafico evidenzia un shift strutturale del rischio. L'incremento del VaR al 99% è sistematicamente superiore a quello al 95%, confermando che lo shock tariffario ha impattato maggiormente i **tail events** rispetto alla **volatilità media**. Questo suggerisce una mutazione della distribuzione dei rendimenti verso una maggiore **leptocurtosi**.
 &nbsp; 
