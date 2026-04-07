@@ -62,19 +62,23 @@ La divergenza tra gli indici è critica. Il p-value dello 0.001 sul Dow Jones (^
 
 ### Change VaR comparison
 ![Distribuzione rendimenti logaritmici](immagini/change_comparison_VaR.png)
+*Figure 1: Comparison of VaR levels across scenarios.*
 
 Il grafico evidenzia un shift strutturale del rischio. L'incremento del VaR al 99% è sistematicamente superiore a quello al 95%, confermando che lo shock tariffario ha impattato maggiormente i **tail events** rispetto alla **volatilità media**. Questo suggerisce una mutazione della distribuzione dei rendimenti verso una maggiore **leptocurtosi**.
 &nbsp; 
 
 ### Distribuzione Rendimenti Logaritmici
 ![Distribuzione rendimenti logaritmici](immagini/log_returns.png)
+*Figure 2: Log distributions by ticker.*
 &nbsp; 
 
 ### Distribuzione Estimation window & Distribuzione event window
 ![Distribuzione rendimenti logaritmici](immagini/log_returns_normality.png)
+*Figure 3: Normality distributions.*
 &nbsp; 
 
 ![Distribuzione rendimenti logaritmici](immagini/log_returns_normality.png)
+*Figure 2: Distress Window distributions.*
 
 **Analisi della Distribuzione**: Il passaggio dalla finestra di normality a quella di distress mostra chiaramente l'insorgere di fat tails. Mentre la distribuzione pre-evento è approssimabile a una normale, il periodo post-evento presenta **outliers estremi** (fino a -6% giornaliero) che il modello storico, basato su un lookback di serie storiche, è meno reattivo e rimane più esposto a cambiamenti di mercato.
 
