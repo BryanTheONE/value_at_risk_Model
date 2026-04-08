@@ -62,7 +62,8 @@ The divergence between indices is critical. The 0.001 p-value for the Dow Jones 
 
 The chart highlights a **structural risk shift**. The 99% VaR increase is systematically higher than the 95% increase, confirming that the tariff shock impacted **tail events** more severely than average volatility. This suggests a mutation in return distributions towards higher **leptokurtosis**.
 
-![Log Returns Distributions](immagini/log_returns.png)
+![Log Returns Distributions](immagini/log_returns_normality.png)
+![Log Returns Distributions](immagini/log_returns_distress.png)
 *Figure 2: Shift from Normality to Distress Window distributions.*
 
 **Distributional Analysis:** The transition from the "Normality" to "Distress" window clearly shows the emergence of **fat tails**. While the pre-event distribution approximates normality, the post-event period presents **extreme outliers** (up to -6% daily returns) that the historical model fails to capture effectively.
